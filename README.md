@@ -10,7 +10,7 @@ openframeworks addon for use with Allied Vision Prosilica cameras.
 Cameras 
 -----------
 
-## Allied AVT GigE
+### Allied AVT GigE
 * Mako G125C PoE (color)
 * Prosilica GC750 (monochrome)
 
